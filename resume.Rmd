@@ -1,0 +1,45 @@
+---
+title: "Academic and Professional Experience"
+---
+
+**My full CV is viewable [here](MaggieLi_CV_11.03.20.pdf).**
+
+#### Education
+* PhD in Environmental Health Sciences, Climate and Health \
+  Mailman School of Public Health, Columbia University, New York, NY \
+  2019-Present
+
+*	Bachelor of Science, Conservation and Resource Studies; \
+  Bachelor of Arts, Geography \
+	University of California Berkeley, Berkeley, CA  \
+	2015-2019 \
+	**Thesis**: Impacts of Saharan Dust on Respiratory Health Prevalence across Senegal
+	
+<br>
+
+#### Teaching
+* Fall 2020: Molecular Epidemiology, Columbia University (Teaching Assistant)
+
+* Fall 2017: Foundations of Effective Communication DeCal, UC Berkeley (Primary Instructor)
+
+<br>
+
+#### Service and Leadership
+* **Community Engagement Associate, Student Environmental Resource Center** \
+  UC Berkeley, Aug 2017 - May 2019 \
+  + Supervised a team of students to organize campus events and compile environmental resources.
+  + Organized regular meetings with campus student leaders.
+  + Spearheaded new data collection and management initiative for environmental campus organizations.
+  + Managed general semesterly membership program of 100+ students.
+  
+* **Board Chair, Berkeley Student Food Collective** \
+  UC Berkeley, Aug 2018 - May 2019 \
+  + Organized and led board meetings for a 501(c)(3) nonprofit, volunteer, educational, member-run grocery store.
+  + Represented organization at all campus food system stakeholder & coalition meetings.
+  + Supported board members in maintaining storefront, fostering member cohesion, and fulfilling educational goals.
+
+<br>
+
+#### Skills
+* **Programming**: R, Python, SAS; ArcGIS
+* **Languages**: Chinese — Proficient speaking/listening, Novice reading/writing
