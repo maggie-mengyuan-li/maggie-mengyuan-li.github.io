@@ -1,5 +1,5 @@
 ---
-title: "Dashboard"
+title: "Snow, Precipitation, and Temperature Data in NY State in 2005"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -30,7 +30,7 @@ ny_noaa_2005 <- ny_noaa %>%
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Comparing snow fall and snow depth 
 
 ```{r compare snowfall and snow depth}
 ny_noaa_2005 %>% 
@@ -45,7 +45,7 @@ ny_noaa_2005 %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Monthly maximum temperature distributions 
 
 ```{r look at monthly max temps}
 ny_noaa_2005 %>% 
@@ -56,7 +56,7 @@ ny_noaa_2005 %>%
 
 ```
 
-### Chart C
+### Monthly mean precipitation 
 
 ```{r precipitation over the year, averaged by month}
 ny_noaa_2005 %>% 
