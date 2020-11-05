@@ -4,7 +4,7 @@ title: "Academic and Professional Experience"
 
 **My full CV is viewable [here](MaggieLi_CV_11.03.20.pdf).**
 
-#### Education
+### Education
 * PhD in Environmental Health Sciences, Climate and Health \
   Mailman School of Public Health, Columbia University, New York, NY \
   2019-Present
@@ -17,14 +17,14 @@ title: "Academic and Professional Experience"
 	
 <br>
 
-#### Teaching
+### Teaching
 * Fall 2020: Molecular Epidemiology, Columbia University (Teaching Assistant)
 
 * Fall 2017: Foundations of Effective Communication DeCal, UC Berkeley (Primary Instructor)
 
 <br>
 
-#### Service and Leadership
+### Service and Leadership
 * **Community Engagement Associate, Student Environmental Resource Center** \
   UC Berkeley, Aug 2017 - May 2019 \
   + Supervised a team of students to organize campus events and compile environmental resources.
@@ -40,6 +40,6 @@ title: "Academic and Professional Experience"
 
 <br>
 
-#### Skills
+### Skills
 * **Programming**: R, Python, SAS; ArcGIS
 * **Languages**: Chinese — Proficient speaking/listening, Novice reading/writing
