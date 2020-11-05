@@ -34,9 +34,10 @@ Column {data-width=650}
 
 ```{r compare snowfall and snow depth}
 ny_noaa_2005 %>% 
-  mutate(snwsd = str_c("Snowfall: ", snow, "\nSnow Depth: ", snwd)) %>% 
+  mutate(snwsd = str_c("Snowfall: ", snow, "\nSnow Depth: ", snwd)) %>%
+  rename(snowfall = snow) %>% rename(snowdepth = snwd) %>% 
   plot_ly(
-    x = ~snow, y = ~snwd, color = ~tmin, text = ~snwsd, 
+    x = ~snowfall, y = ~snowdepth, color = ~tmin, text = ~snwsd, 
     alpha = .5, type = "scatter", mode = "markers")  
 ```
 
