@@ -5,7 +5,7 @@ title: "Research"
 ## Publications
 
 ### Manuscripts in Progress
-* Assessing Fine Particle (PM2.5) Monitoring and Concentrations in American Indian- (AI-) vs. Non-AI-populated counties (Li et al., submitted)
+* Assessing Fine Particle (PM2.5) Monitoring and Concentrations in American Indian- (AI-) vs. Non-AI-populated counties (Li et al., under review)
 
 
 ### Published Papers
@@ -18,7 +18,7 @@ title: "Research"
 
 ### Oral
 
-* 2020 Columbia Mailman School of Public Health Environmental Health Sciences (EHS) Seminar Series, New York, NY: _Quantifying Air Pollution in American Indian Communities._
+* 2021 Columbia Mailman School of Public Health Environmental Health Sciences (EHS) Seminar Series, New York, NY:  _Air Pollution in American Indian Communities._
 
 * 2019 American Meteorological Society Annual Meeting, 10th Conference on 
 Environment and Health, Phoenix, AZ: _Impacts of Saharan dust on asthma outcomes across Senegal._ **Awardee: Top Overall Student Presentation**
