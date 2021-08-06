@@ -4,11 +4,14 @@ title: "Research"
 
 ## Publications
 
-### Manuscripts in Progress
-* Assessing Fine Particle (PM2.5) Monitoring and Concentrations in American Indian- (AI-) vs. Non-AI-populated counties (Li et al., under review)
+### Manuscripts Under Review
+*  pollution in American Indian vs. Non-American Indian communities (Li et al., under review)
 
 
 ### Published Papers
+* Nunez Y, Boehme AK, **Li M**, Goldsmith J, Weisskopf MG, Re DB., Navas-Acien A, 
+van Donkelaar A, Martin RV, Kioumourtzoglou M-A, 2021. [Parkinson’s disease aggravation in association with fine particle components in New York State.](https://doi.org/10.1016/j.envres.2021.111554) Environmental Research 201, 111554. doi: 10.1016/j.envres.2021.111554.
+
 * Toure NO, Gueye NRD, Mbow‐Diokhane A, Jenkins GS, **Li M**, Drame MS, Coker KAR, Thiam K. [Observed and modeled seasonal air quality and respiratory health in Senegal during 2015 and 2016.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GH000214) GeoHealth, December 2019. doi: 10.1029/2019GH000214. 
  
 <br>
@@ -18,7 +21,7 @@ title: "Research"
 
 ### Oral
 
-* 2021 Columbia Mailman School of Public Health Environmental Health Sciences (EHS) Seminar Series, New York, NY:  _Air Pollution in American Indian Communities._
+* 2021 & 2020 Columbia Mailman School of Public Health Environmental Health Sciences (EHS) Seminar Series, New York, NY:  _Air Pollution in American Indian Communities._
 
 * 2019 American Meteorological Society Annual Meeting, 10th Conference on 
 Environment and Health, Phoenix, AZ: _Impacts of Saharan dust on asthma outcomes across Senegal._ **Awardee: Top Overall Student Presentation**
