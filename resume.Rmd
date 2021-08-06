@@ -42,5 +42,5 @@ title: "Academic and Professional Experience"
 <br>
 
 ### Skills
-* **Programming**: R, Python, SAS; ArcGIS
+* **Programming**: R, Python, SAS; ArcGIS, QGIS
 * **Languages**: Chinese — Proficient speaking/listening, Novice reading/writing
