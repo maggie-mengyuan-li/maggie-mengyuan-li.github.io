@@ -9,10 +9,15 @@ title: "Research"
 
 
 ### Published Papers
+* **Li M**, Hilpert M, Goldsmith J, Brooks JL, Shearston JA, Chillrud SN, Ali T, Umans JG, Best LG, Yracheta J, van Donkelaar A, Martin RV, Navas-Acien A, Kioumourtzoglou MA. [Air Pollution in American Indian Versus Non–American Indian Communities, 2000–2018.](https://doi.org/10.2105/AJPH.2021.306650) *American Journal of Public Health*, 2022 Apr.
+  + *Featured in*: [The Hill](https://thehill.com/policy/equilibrium-sustainability/599448-american-indian-communities-benefit-less-from-downward/), [Bloomberg CityLab](https://www.bloomberg.com/news/articles/2022-03-23/study-documents-air-pollution-burden-on-tribal-lands), [New Mexico Political Report](https://nmpoliticalreport.com/2022/04/08/study-finds-native-american-communities-face-greater-air-pollution-burdens)
+\  
+\
+  
 * Nunez Y, Boehme AK, **Li M**, Goldsmith J, Weisskopf MG, Re DB., Navas-Acien A, 
-van Donkelaar A, Martin RV, Kioumourtzoglou M-A, 2021. [Parkinson’s disease aggravation in association with fine particle components in New York State.](https://doi.org/10.1016/j.envres.2021.111554) Environmental Research 201, 111554. doi: 10.1016/j.envres.2021.111554.
+van Donkelaar A, Martin RV, Kioumourtzoglou M-A. [Parkinson’s disease aggravation in association with fine particle components in New York State.](https://doi.org/10.1016/j.envres.2021.111554) *Environmental Research*, 2021 Oct. 
 
-* Toure NO, Gueye NRD, Mbow‐Diokhane A, Jenkins GS, **Li M**, Drame MS, Coker KAR, Thiam K. [Observed and modeled seasonal air quality and respiratory health in Senegal during 2015 and 2016.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GH000214) GeoHealth, December 2019. doi: 10.1029/2019GH000214. 
+* Toure NO, Gueye NRD, Mbow‐Diokhane A, Jenkins GS, **Li M**, Drame MS, Coker KAR, Thiam K. [Observed and modeled seasonal air quality and respiratory health in Senegal during 2015 and 2016.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GH000214) *GeoHealth*, 2019 Dec. 
  
 <br>
 
