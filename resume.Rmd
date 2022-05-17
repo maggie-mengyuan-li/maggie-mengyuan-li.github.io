@@ -2,7 +2,7 @@
 title: "Academic and Professional Experience"
 ---
 
-**My full CV is viewable [here](Maggie_Li_CV_2.24.22.pdf).**
+**My full CV is viewable [here](Maggie_Li_CV_5.17.22.pdf).**
 
 ### Education
 * PhD in Environmental Health Sciences, Climate and Health \
@@ -18,6 +18,10 @@ title: "Academic and Professional Experience"
 <br>
 
 ### Teaching
+* Spring 2022: Environmental Determinants of Health II (Doctoral Teaching Fellow)
+
+* Fall 2021: Public Health GIS (Doctoral Teaching Fellow)
+
 * Fall 2020: Molecular Epidemiology, Columbia University (Doctoral Teaching Fellow)
 
 * Fall 2017: Foundations of Effective Communication DeCal, UC Berkeley (Primary Instructor) \
